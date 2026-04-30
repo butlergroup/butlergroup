@@ -1,13 +1,13 @@
-<div style="align: center">
+<div align="center">
 	<img src="welcome-header.gif" alt="welcome to my github profile" />
 </div>
 
-<div style="align: center">
+<div align="center">
 	when I try to use PowerShell after not using it for a few months...
 	<img src="when-i-try-to-use-powershell-after-not-using-it-for-a-few-months.gif" />
 </div>
 
-<table style="align: center; width: 100%">
+<table align="center" width="100%">
   <tr style="width: 50%">
     <td>
       <img src="tumblr.gif" width="100%" />
