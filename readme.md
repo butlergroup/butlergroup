@@ -7,10 +7,10 @@ when I try to use PowerShell after not using it for a few months...
 <table align="center">
   <tr>
     <td style="width: 50%">
-	<img src="when-i-try-to-use-powershell-after-not-using-it-for-a-few-months.gif" alt="when I try to use PowerShell after not using it for a few months..." />>
+	<img src="when-i-try-to-use-powershell-after-not-using-it-for-a-few-months.gif" alt="when I try to use PowerShell after not using it for a few months..." />
 	</td>
     <td style="width: 50%">
-	<img src="tumblr.gif" style="object-fit: contain" /> 
+	<img src="tumblr.gif" style="object-fit: contain; align: center" /> 
 	<br />
 	<img src="bearwave.gif" style="object-fit: contain" />
     </td>
