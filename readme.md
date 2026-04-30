@@ -9,18 +9,18 @@ when I try to use PowerShell after not using it for a few months...
 <table align="center" width="100%">
   <tr style="width: 50%">
     <td style="width: 50%">
-      <img src="tumblr.gif" max-width="100%" />
+      <img src="tumblr.gif" style="object-fit: contain" />
     </td>
     <td style="width: 50%">
-      <img src="bearwave.gif" max-width="100%" />
+      <img src="bearwave.gif" style="object-fit: contain" />
     </td>
   </tr>
   <tr style="width: 50%">
     <td style="width: 50%">
-      <img src="data-on-acid.jpg" max-width="100%" />
+      <img src="data-on-acid.jpg" style="object-fit: contain" />
     </td>
     <td style="width: 50%">
-      <img src="datahumor.jpg" max-width="100%" />
+      <img src="datahumor.jpg" style="object-fit: contain" />
     </td>
   </tr>
 </table>
