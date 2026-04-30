@@ -4,17 +4,20 @@
 
 when I try to use PowerShell after not using it for a few months...
 
-![](when-i-try-to-use-powershell-after-not-using-it-for-a-few-months.gif)
-
-<table align="center" width="100%">
-  <tr style="width: 50%">
+<table align="center">
+  <tr>
     <td style="width: 50%">
-      <img src="tumblr.gif" style="object-fit: contain" />
-    </td>
+	<img src="when-i-try-to-use-powershell-after-not-using-it-for-a-few-months.gif" alt="when I try to use PowerShell after not using it for a few months..." />>
+	</td>
     <td style="width: 50%">
-      <img src="bearwave.gif" style="object-fit: contain" />
+	<img src="tumblr.gif" style="object-fit: contain" /> 
+	<br />
+	<img src="bearwave.gif" style="object-fit: contain" />
     </td>
   </tr>
+</div>
+
+<table align="center" width="100%">
   <tr style="width: 50%">
     <td style="width: 50%">
       <img src="data-on-acid.jpg" style="object-fit: contain" />
