@@ -6,10 +6,24 @@ when I try to use PowerShell after not using it for a few months...
 
 ![](when-i-try-to-use-powershell-after-not-using-it-for-a-few-months.gif)
 
-<img src="tumblr.gif" style="float:right">
+<table align="right" width="220">
+  <tr>
+    <td>
+      <img src="tumblr.gif" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="bearwave.gif" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="data-on-acid.jpg" width="100%">
+    </td>
+  </tr>
+</table>
 
-<img src="bearwave.gif" align="right" width="200">
-
-<img src="data-on-acid.jpg" align="right" width="200">
-
-<img src="datahumor.jpg" width="300">
+<p>
+  <img src="datahumor.jpg" width="100%" style="max-width: 500px;">
+</p>
