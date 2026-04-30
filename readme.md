@@ -9,8 +9,8 @@ when I try to use PowerShell after not using it for a few months...
     <td style="width: 50%">
 	<img src="when-i-try-to-use-powershell-after-not-using-it-for-a-few-months.gif" alt="when I try to use PowerShell after not using it for a few months..." />
 	</td>
-    <td style="width: 50%">
-	<img src="tumblr.gif" style="object-fit: contain; align: center" /> 
+    <td style="width: 50%; align: center">
+	<img src="tumblr.gif" style="object-fit: contain" /> 
 	<br />
 	<img src="bearwave.gif" style="object-fit: contain" />
     </td>
