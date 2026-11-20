@@ -42,25 +42,25 @@ trap 'echo "ERROR: APT maintenance failed at $(date --iso-8601=seconds), line $L
 echo ""
 echo "Updating package indexes..."
 
-apt-get "${APT_OPTIONS[@]}" update
+apt "${APT_OPTIONS[@]}" update
 
 # 2. Install available upgrades
 echo ""
 echo "Installing available upgrades..."
 
-apt-get "${APT_OPTIONS[@]}" upgrade -y
+apt "${APT_OPTIONS[@]}" upgrade -y
 
 # 3. Remove unnecessary packages
 echo ""
 echo "Removing unnecessary packages..."
 
-apt-get "${APT_OPTIONS[@]}" autoremove -y
+apt "${APT_OPTIONS[@]}" autoremove -y
 
 # 4. Clean package cache
 echo ""
 echo "Cleaning package cache..."
 
-apt-get clean
+apt clean
 
 # 5. Check reboot requirement
 echo ""
