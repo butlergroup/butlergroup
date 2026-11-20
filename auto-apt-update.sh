@@ -3,8 +3,8 @@
 set -Eeuo pipefail
 
 # Configuration
-LOG_FILE="/var/log/host-apt-update.log"
-LOCK_FILE="/run/lock/host-apt-update.lock"
+LOG_FILE="/var/log/auto-apt-update.log"
+LOCK_FILE="/run/lock/auto-apt-update.lock"
 REBOOT_IF_REQUIRED=false
 
 # Require root
